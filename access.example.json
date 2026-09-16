@@ -1,0 +1,17 @@
+{
+  "dmPolicy": "pairing",
+  "allowFrom": ["<your-numeric-telegram-user-id>"],
+  "groups": {
+    "<supergroup-id-e.g.-1001654782309>": {
+      "requireMention": true,
+      "allowFrom": [],
+      "topicId": "<forum-topic-id, omit for whole-group mode>"
+    }
+  },
+  "pending": {},
+  "mentionPatterns": ["^hey claude\\b"],
+  "ackReaction": "👀",
+  "replyToMode": "first",
+  "textChunkLimit": 4096,
+  "chunkMode": "newline"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "telegram-topics-channel",
+  "description": "Telegram channel for Claude Code with forum-topic scoping and per-topic auto-reply routing — messaging bridge with built-in access control, pairing, allowlists, and a bot that stays in its lane inside multi-topic groups. Fork of Anthropic's Apache-2.0 telegram plugin. Manage pairing, allowlists, and policy via /telegram-topics-channel:access.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Johannsen Lum"
+  },
+  "homepage": "https://github.com/JohannsenLum/telegram-topics-channel",
+  "repository": "https://github.com/JohannsenLum/telegram-topics-channel",
+  "license": "Apache-2.0",
+  "keywords": [
+    "telegram",
+    "messaging",
+    "channel",
+    "mcp",
+    "forum-topics",
+    "topics"
+  ]
+}

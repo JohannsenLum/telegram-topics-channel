@@ -1,0 +1,10 @@
+node_modules/
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store
+*.tmp
+.jobro-repatch.staged.ts
+.jobro-repatch.err
+.jobro-build-check.js

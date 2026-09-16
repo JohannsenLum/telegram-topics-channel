@@ -1,0 +1,15 @@
+{
+  "name": "telegram-topics-channel",
+  "description": "Marketplace for the telegram-topics-channel plugin — a Telegram channel for Claude Code with forum-topic scoping and per-topic auto-reply routing.",
+  "owner": {
+    "name": "Johannsen Lum",
+    "url": "https://github.com/JohannsenLum/telegram-topics-channel"
+  },
+  "plugins": [
+    {
+      "name": "telegram-topics-channel",
+      "source": ".",
+      "description": "Telegram channel for Claude Code with forum-topic scoping and per-topic auto-reply routing. Fork of Anthropic's Apache-2.0 telegram plugin."
+    }
+  ]
+}

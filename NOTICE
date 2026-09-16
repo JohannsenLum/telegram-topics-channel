@@ -1,0 +1,6 @@
+telegram-topics-channel
+
+This product includes software derived from the Claude Code Telegram channel
+plugin by Anthropic, PBC (https://github.com/anthropics/claude-plugins-official),
+licensed under the Apache License 2.0. Modified in 2026 by Johannsen Lum to
+add Telegram forum-topic scoping and per-topic reply routing.
